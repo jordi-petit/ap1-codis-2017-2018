@@ -1,4 +1,4 @@
-// Indica si el nombre de dígits és a la representació decimal de x.
+// Indica si el dígit 3 és a la representació decimal de x.
 // Precondició: x >= 0.
 // => Cerca
 
