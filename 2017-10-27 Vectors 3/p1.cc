@@ -44,7 +44,7 @@ int main() {
         v[i] = 2*(rand()%n);
     }
 
-    // crida la cerca binària sobre un element x senar (que no trobarà)
+    // crida la cerca lineal sobre un element x senar (que no trobarà)
     // tot cronometrant el temps.
     int x = 1 + 2*(rand()%n);
     double t1 = now();    
